@@ -17,7 +17,7 @@ class m_1457635196_createRelatives
             'birth' => ['type' => 'date'],
             'death' => ['type' => 'date'],
             'address' => ['type' => 'string'],
-            'phone' => ['type' => 'int'],
+            'phone' => ['type' => 'string'],
             'email' => ['type' => 'string'],
             'social' => ['type' => 'string'],
         ]);
